@@ -1,0 +1,11 @@
+{
+  "name": "tailwindsite",
+  "version": "1.0.0",
+  "description": "TailwindCSS шаблон с использованием flex-меню и grid-сетки",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
