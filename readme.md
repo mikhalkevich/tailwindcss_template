@@ -2,4 +2,4 @@
 TailwindCSS шаблон с использованием flex-меню и grid-сетки
 
 ## Description
-Git main и git develop
+Git main и git develop conflict 
